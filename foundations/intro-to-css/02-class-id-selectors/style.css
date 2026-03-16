@@ -5,7 +5,7 @@
 
 }
 
-.two{
+#two{
     color: blue;
     font-size: 36px;
 
@@ -15,9 +15,9 @@
     font-size: 24px;
 
 }
-.fourth{
-    color: rgb(144, 238, 144);
+#fourth{
+    color: rgb(12, 234, 12);
     font-size: 24px;
-    font-weight: bold;
+    font-weight: bolder;
 
 }
